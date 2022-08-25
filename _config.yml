@@ -84,7 +84,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 kaggle_username: osmanf # your kaggle id
-huggingface_username: osbm # your huggingface url
+huggingface_username: # osbm # your huggingface url # TODO(osbm) bump font awesome to v6.x
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
