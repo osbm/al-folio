@@ -28,6 +28,12 @@
             {%- if site.quora_username -%}
             <a href="https://www.quora.com/profile/{{ site.quora_username }}" title="Quora"><i class="fab fa-quora"></i></a>
             {% endif %}
+            {%- if site.kaggle_username -%}
+            <a href="https://kaggle.com/{{ site.kaggle_username }}" title="Kaggle"><i class="fab fa-kaggle"></i></a>
+            {% endif %}
+            {%- if site.huggingface_username -%}
+            <a href="https://huggingface.co/{{ site.huggingface_username }}" title="Huggingface"><i class="fab fa-face-smiling-hands"></i></a>
+            {% endif %}
             {%- if site.blogger_url -%}
             <a href="{{ site.blogger_url }}" title="Blogger"><i class="fab fa-blogger-b"></i></a>
             {% endif %}
