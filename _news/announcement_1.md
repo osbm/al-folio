@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-08-27 12:00:00 +0300
 inline: true
 ---
 
-A simple inline announcement.
+The initial setup of this website. :tada:
