@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: "projects made with :love: by `osbm`"
+description: projects made with ❤️ by `osbm`
 nav: true
 nav_order: 2
 display_categories: [work, fun]
