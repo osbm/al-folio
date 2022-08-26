@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Artificial Intelligence Engineering Student at the [Bahçeşehir University](https://bau.edu.tr/)
+subtitle: Artificial Intelligence Engineering student at the <a href="https://bau.edu.tr/">Bahçeşehir University</a>
 
 profile:
   align: right
