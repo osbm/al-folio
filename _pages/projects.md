@@ -5,7 +5,7 @@ permalink: /projects/
 description: projects made with ❤️ by osbm
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [github, kaggle, huggingface]
 horizontal: false
 social: true
 ---
