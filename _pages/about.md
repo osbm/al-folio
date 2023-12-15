@@ -17,4 +17,4 @@ selected_papers: false
 social: true  
 ---
 
-I am **Artificial intelligence engineering** student at the Bahçeşehir University. Currently learning about *deep learning* and *machine learning*. This page will be expanded in the future.
+I am **Artificial Intelligence Engineering** student at the Bahçeşehir University. Currently learning about *large language models*.
