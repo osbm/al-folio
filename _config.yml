@@ -82,7 +82,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: 9279225 #your stackoverflow id
 kaggle_username: osmanf # your kaggle id
-huggingface_username: # osbm # your huggingface url # TODO(osbm) bump font awesome to v6.x
+huggingface_username: osbm # your huggingface url # TODO(osbm) bump font awesome to v6.x
 
 contact_note: >
   send me a message or reach out on these platforms
