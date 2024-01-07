@@ -39,10 +39,12 @@ Some of the projects are here to showcase my skills and some are just for fun. Y
 
 ## Kaggle Notebooks
 
-
+will be added.
 
 ## Huggingface
 
+will be added.
 
 ## Docker images
 
+will be added.
