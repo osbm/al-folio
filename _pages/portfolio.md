@@ -39,7 +39,13 @@ Some of the projects are here to showcase my skills and some are just for fun. Y
 
 ## Kaggle Notebooks
 
-will be added.
+- [IMDB LSTM pytorch](https://www.kaggle.com/code/osmanf/imdb-lstm-model-using-pytorch)
+- [pytorch dataset and dataloader for RSNA Breast Cancer Competition](https://www.kaggle.com/code/osmanf/pytorch-dataset-and-dataloader)
+- [stroke prediction](https://www.kaggle.com/code/osmanf/stroke-prediction-using-machine-learning) - Stroke prediction using ensemble learning.
+- [EDA for RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/code/osmanf/weak-eda)
+- [offline-segmentation-models](https://www.kaggle.com/code/osmanf/offline-segmentation-models) - Using Tensorflow [Segmentation Models](https://github.com/qubvel/segmentation_models) package for offline inference during competition.
+- [gpu-unet-training](https://www.kaggle.com/code/osmanf/gpu-unet-training) - Implementing an U-Net model and training it on GPU.
+- [User Based Collaborative Filtering implementation](https://www.kaggle.com/code/osmanf/user-based-collaborative-filtering-implementation) - A simple python implementation of User Based Collaborative Filtering for recommendation systems.
 
 ## Huggingface
 
