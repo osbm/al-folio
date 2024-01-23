@@ -15,7 +15,10 @@ Some of the projects are here to showcase my skills and some are just for fun. Y
 
 - [model-suite](https://github.com/model-suite/model-suite) - A python package that implements a suite of deep learning models.
 - [sphere eversion animation](https://github.com/osbm/sphere-eversion-animation) - Thurston's sphere eversion animation in Three.js. [Play with the live demo](https://osmanbayram.com/sphere-eversion-animation/).
-- [ain3003-hw2](https://github.com/osbm/ain3003-hw2) - MySQL homework for the course "DATABASE SYSTEMS AND CLOUD COMPUTING" at my university.
+- [Tissue Segmentation on Histopathology Imagery](https://github.com/ain3007-project) - A tissue segmentation model for histopathology imagery.
+- [ain3003-term-project](https://github.com/osbm/ain3003-term-project) - Kubernetes mongodb flask showcase project.
+- [ain3003-hw2](https://github.com/osbm/ain3003-hw2) - MySQL queries for a database of a library.
+- [ain3005-final-project](https://github.com/osbm/ain3005-final-project) - A library automation system that utilizes Apache kafka, docker compose, mongodb, flask.
 - [rubics-cube](https://github.com/osbm/rubics-cube) - A python package for simulating, visualizing and generating solutions for Rubik's cube.
 - [unet_explainer](https://github.com/osbm/unet_explainer) - A two part tutorial for understanding U-Net architecture. These notebooks were used as a workshop material for a group of radiologists.
 - [learn-images](https://github.com/osbm/learn-images) - [WIP] A python package for exploring Gaussian Fourier Features on deep learning models. See [this paper](https://arxiv.org/abs/2006.10739).

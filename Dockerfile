@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
 RUN gem install jekyll bundler
 
 # Copy the Gemfile and Gemfile.lock into the image
-COPY Gemfile Gemfile.lock ./
+COPY Gemfile ./
 
 # Install Jekyll dependencies
 RUN bundle install
@@ -22,3 +22,5 @@ COPY . .
 
 # Expose the default Jekyll port
 EXPOSE 4000
+
+ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000"]
